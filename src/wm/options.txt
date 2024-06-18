@@ -1,0 +1,9 @@
+Menu do Funcionario - Opcoes:
+
+  1 - Abertura de conta;
+  2 - Encerramento de conta;
+  3 - Consultar dados
+  4 - Alterar dados
+  5 - Cadastro de funcionarios
+  6 - Gerar relatorios
+  7 - Sair.

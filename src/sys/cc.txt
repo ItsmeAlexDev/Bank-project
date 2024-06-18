@@ -1,0 +1,18 @@
+agencia: 234
+pin 234
+limite: -234
+data do vencimento: 234/234/234
+nome do cliente: 234
+CPF do cliente: 234
+data de nascimento do cliente: 234/234/234
+telefone: 234
+endereco do cliente: 234
+CEP: 234
+local: 234
+numero da casa: 234
+bairro: 234
+cidade: 234
+estado: 234
+senha: 234
+saldo: 0
+

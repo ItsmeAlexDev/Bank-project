@@ -1,0 +1,13 @@
+Alterar Dados - Conta - Opcoes:
+
+1 - CODIGO FUNCIONARIO
+2 - CARGO
+3 - TELEFONE 
+4 - LOCAL (ENDEREcO)
+5 - NUMERO DA CASA
+6 - CEP
+7 - BAIRRO
+8 - CIDADE
+9 - ESTADO
+10 - VOLTAR
+

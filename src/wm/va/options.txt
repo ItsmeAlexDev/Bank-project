@@ -1,0 +1,6 @@
+Consultar dados - Opcoes:
+
+1 - Consultar conta
+2 - Consultar funcionario
+3 - Consultar cliente
+4 - Voltar

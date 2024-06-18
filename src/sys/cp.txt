@@ -1,0 +1,16 @@
+agencia: 123
+pin: 123
+nome do cliente: 123
+CPF do cliente: 123
+data de nascimento do cliente: 123/123/123
+telefone: 123123
+endereco do cliente: 123
+CEP: 123
+local: 123
+numero da casa: 123
+bairro: 123
+cidade: 123
+estado: 123
+senha: 123
+saldo: 100
+

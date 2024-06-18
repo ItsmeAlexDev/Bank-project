@@ -1,0 +1,11 @@
+Alterar Dados - Conta - Opcoes:
+
+1 - TELEFONE
+2 - LOCAL (ENDEREÇO)
+3 - Nº DA CASA
+4 - CEP
+5 - BAIRRO
+6 - CIDADE
+7 - ESTADO
+8 - VOLTAR
+

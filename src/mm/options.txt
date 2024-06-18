@@ -1,0 +1,5 @@
+Menu Principal - Opcoes:
+
+  1 - Login Funcionario;
+  2 - Login Cliente;
+  3 - Fechar o Programa.

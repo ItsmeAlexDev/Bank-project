@@ -1,0 +1,8 @@
+Menu do Cliente - Opcoes:
+
+  1 - Saldo;
+  2 - Deposito;
+  3 - Saque;
+  4 - Extrato;
+  5 - Consultar Limite;
+  6 - Sair.
